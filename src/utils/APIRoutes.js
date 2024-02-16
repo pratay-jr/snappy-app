@@ -1,4 +1,4 @@
-export const host = "http://localhost:5000";
+export const host = "https://snappy-db.onrender.com";
 //Represents the endpoint for user registration
 export const registerRoute = `${host}/api/auth/register`;
 // Represents the endpoint for user login
